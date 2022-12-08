@@ -9,7 +9,7 @@
 <img align="right" alt="CALCULADORA-pic" height="450" style="border-radius:50px;" src="https://github.com/JVOA02/Lampada_1/blob/main/L%C3%A2mpada.gif">
 #
 
-# 🎮Chaves de jogador número 1🎮
+# 🎮Chave de cobre, jade e cristal🎮
 ## 🔑 Utilizando HTML, CSS e JavaScript🔑
 ### 📱 Responsive landing_page 📱
 
