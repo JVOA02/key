@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-image: url(./MESA-MEDIEVAL.PNG);
+    background-size: cover;
+    min-height: 100vh;
+}
+.container{
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    z-index: 1;
+    background-color: rgba(0, 0, 0, 0.275);
+    height: 100vh;
+}
+.key{
+    width: 279.5px;
+    height: 580px;
+
+}
+.content{
+    text-align: center;
+    color:#fff;
+    background-color: black;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid white;
+    box-shadow: 5px 5px 5px black;
+
+}
