@@ -13,4 +13,4 @@
 - Chaves d jogador número 1.
 
 ## PARA UTILIZAR O PROJETO, ACESSE
-➡️ 
+➡️  https://jvoa02.github.io/key/
