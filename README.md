@@ -1,9 +1,4 @@
 
-##
-───▓▓▓█▓█──▓█────▓█──▓█─.▓▓▓█
-────.▓█─▓█─▓█─────▓█─▓█───.▓█
-──▓▓▓█─.▓▓▓█─▓▓▓█─▓▓▓█──▓▓▓█
-##
 #
 <img align="right" alt="CALCULADORA-pic" height="500" style="border-radius:50px;" src="https://github.com/JVOA02/Chave/blob/main/gif-chaves.gif">
 #
